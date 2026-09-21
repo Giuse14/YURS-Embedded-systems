@@ -16,17 +16,26 @@ Nobody is marking your writing. It is here because writing down what you tried i
 **Each entry:** what you were trying to do, what happened, and one thing that did not work.
 
 If a session genuinely went perfectly, say so. But a log where nothing ever goes wrong describes a project that did not happen.
+---
+
+### 2026-09-20 · 2h · Phase 0
+
+**Trying to:** Reading the README.md, creating and cloning the repository and checking the other materials on the repo
+
+**Happened:** Repository (public) created, SSH key created
+
+**Difficulties:** I had git installed already in my laptop, so I needed to check the version again, I checked sudo on my pc and enabled it
 
 ---
 
-### 2026-XX-XX · 2 h · Phase 1
-
-**Trying to:** get a project building and something printing over serial.
-
-**Happened:** builds clean, banner prints.
-
-**Didn't work:** nothing printed for forty minutes. Two COM ports showed up and I picked the wrong one. Then it printed garbage, which was the baud rate: the terminal was at 115200 but the .ioc was still on 9600 from a default I never looked at.
-
 ---
 
-*(Delete the example once you have your own. Newest at the bottom.)*
+### 2026-09-21 · 1h · Phase 0/ Phase 1
+
+**Trying to:** install STM32CubeIDE for windows (creating a ST account), watch youtube videos on how to make an LED with the STM32 and write first code lines
+
+**Happened:** STM32CubeIDE installed
+
+**Didn't work:** nothing
+
+---
