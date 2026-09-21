@@ -25,7 +25,7 @@ If a session genuinely went perfectly, say so. But a log where nothing ever goes
 **Happened:** Repository (public) created, SSH key created
 
 **Difficulties:** I had git installed already in my laptop, so I needed to check the version again, I checked sudo on my pc and enabled it
----
+
 ---
 ### 2026-09-21 · 1h · Phase 0/ Phase 1
 
@@ -34,4 +34,4 @@ If a session genuinely went perfectly, say so. But a log where nothing ever goes
 **Happened:** STM32CubeIDE installed
 
 **Didn't work:** nothing
----
+
