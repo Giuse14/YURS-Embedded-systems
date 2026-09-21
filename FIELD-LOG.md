@@ -16,7 +16,7 @@ Nobody is marking your writing. It is here because writing down what you tried i
 **Each entry:** what you were trying to do, what happened, and one thing that did not work.
 
 If a session genuinely went perfectly, say so. But a log where nothing ever goes wrong describes a project that did not happen.
-```
+--
 
 ### 2026-09-20 · 2h · Phase 0
 
@@ -26,9 +26,9 @@ If a session genuinely went perfectly, say so. But a log where nothing ever goes
 
 **Difficulties:** I had git installed already in my laptop, so I needed to check the version again, I checked sudo on my pc and enabled it
 
-```
+--
 
-```
+--
 
 ### 2026-09-21 · 1h · Phase 0/ Phase 1
 
@@ -38,4 +38,4 @@ If a session genuinely went perfectly, say so. But a log where nothing ever goes
 
 **Didn't work:** nothing
 
-```
+--
