@@ -40,7 +40,7 @@ If a session genuinely went perfectly, say so. But a log where nothing ever goes
 
 **Trying to:** Blink LED at 1Hz, Output of Codename and Framework
 
-**Happened:** Changed the prescaler and the counter period ARR using formula, I noticed clk is 64Mhz while the max frequency is 72Mhz for the stm32f302r8
+**Happened:** Changed the prescaler and the counter period ARR using formula, I noticed clk is 64Mhz while the max frequency is 72Mhz for the stm32f302r8, changed the code to use printf() using this website: "https://dev.to/carolineee/how-to-use-printf-on-stm32-via-serial-uart-40k9". I don't have the stm32 here anc can't check if it works.
 
 **Didn't work:** at first wront CLK number. Difficulties found on how to print stuff, since for printf() I need to rewrite the _write() function (this is strange, since c++ hast std library with std::cout)
 
