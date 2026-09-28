@@ -35,3 +35,12 @@ If a session genuinely went perfectly, say so. But a log where nothing ever goes
 
 **Didn't work:** nothing
 
+---
+### 2026-09-28 · 5h · Phase 1
+
+**Trying to:** Blink LED at 1Hz, Output of Codename and Framework
+
+**Happened:** Changed the prescaler and the counter period ARR using formula, I noticed clk is 64Mhz while the max frequency is 72Mhz for the stm32f302r8
+
+**Didn't work:** at first wront CLK number. Difficulties found on how to print stuff, since for printf() I need to rewrite the _write() function (this is strange, since c++ hast std library with std::cout)
+
